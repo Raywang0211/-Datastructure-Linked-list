@@ -33,3 +33,8 @@ Double linked list
 reference image 
 
 Circular linked list
+## 參考資料:
+
+https://lovedrinkcafe.com/python-single-linked-list/
+
+https://favtutor.com/blogs/doubly-linked-list-python
